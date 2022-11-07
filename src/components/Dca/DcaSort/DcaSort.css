@@ -1,0 +1,7 @@
+.sort-container{
+    display: flex;
+    gap: 25px;
+}
+.btn-size{
+    width: 105px;
+}
